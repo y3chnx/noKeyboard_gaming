@@ -20,13 +20,13 @@ BALL_SPEED_Y = 15
 
 pg.init()
 screen = pg.display.set_mode((WIDTH, HEIGHT))
-pg.display.set_caption("핑퐁 게임")
+pg.display.set_caption("Game")
 clock = pg.time.Clock()
 
 
 cap = cv2.VideoCapture(0)
 if not cap.isOpened():
-    print("카메라를 열 수 없습니다.")
+    print("can't open camera")
     running = False
 
 

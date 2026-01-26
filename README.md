@@ -1,4 +1,4 @@
-# noKeyboard_gaming
+# No Keyboard Pingpong Game
 
 > Playing pingpong game without Keyboard or Mouse 
 
@@ -13,17 +13,17 @@
 
 ## ℹ️ How to Use?
 
-- ** Download my repository on your computer.
+- **Download my repository on your computer.
 ```bash
 git clone https://github.com/y3chnx/noKeyboard_gaming.git
 ```
 
-- ** Install all the things that you need.
+- **Install all the things that you need.
 ```bash
 pip install requirements.txt
 ```
 
-- ** Open up the Game
+- **Open up the Game
 ```bash
 python3 main.py
 ```

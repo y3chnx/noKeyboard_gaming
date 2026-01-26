@@ -8,8 +8,8 @@
 
 - **👤 Author:** y3chnx
 - **📄 License:** MIT
-- **📂 Repository:** [https://github.com/y3chnx/noKeyboard_gaming](https://github.com/y3chnx/noKeyboard_gaming)
 - **🤗 Repository that I used** [GO](#repos)
+- **📂 My Repository:** [https://github.com/y3chnx/noKeyboard_gaming](https://github.com/y3chnx/noKeyboard_gaming)
 
 
 ## ℹ️ How to Use?

@@ -12,10 +12,6 @@ hands = mp_hands.Hands(
 )
 
 def finger_state(lm):
-    """
-    반환:
-    [엄지, 검지, 중지, 약지, 새끼] (0/1)
-    """
     fingers = []
 
     fingers.append(1 if lm[4].x < lm[3].x else 0)

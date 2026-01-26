@@ -62,7 +62,7 @@ while running:
         if ret:
             frame = cv2.flip(frame, 1)
             state = m.get_hand_state(frame)
-            cv2.imshow("Webcam Feed", frame)
+            cv2.imshow("Webcam", frame)
 
             if state:
                 if state == [0, 0, 0, 0, 0]:
